@@ -100,7 +100,7 @@ wasm-bindgen = "0.2"
 wasm-bindgen-futures = "0.4"
 web-sys = "0.3.70"
 web-time = "1.1.0" # Timekeeping for native and web
-wgpu = { git = "https://github.com/adrian17/wgpu", branch = "lower-max-color-attachments-for-gles", default-features = false }
+wgpu = { git = "https://github.com/colin-i/wgpu", branch = "v24test", default-features = false }
 windows-sys = "0.59"
 winit = { version = "0.30.7", default-features = false }
 
